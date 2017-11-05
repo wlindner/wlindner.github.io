@@ -1,0 +1,128 @@
+{
+  "assetsByChunkName": {
+    "path---moving-to-san-francisco": [
+      "path---moving-to-san-francisco-624d33dda1a99194adcc.js",
+      "path---moving-to-san-francisco-624d33dda1a99194adcc.js.map"
+    ],
+    "path---an-excerpt-from-the-zahir": [
+      "path---an-excerpt-from-the-zahir-22d9a66ca5df9e2bc60a.js",
+      "path---an-excerpt-from-the-zahir-22d9a66ca5df9e2bc60a.js.map"
+    ],
+    "path---learning-elixir": [
+      "path---learning-elixir-90a20fc205df20521d3e.js",
+      "path---learning-elixir-90a20fc205df20521d3e.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-a6a7603fa22fc50ee3b4.js",
+      "component---src-pages-index-js-a6a7603fa22fc50ee3b4.js.map"
+    ],
+    "path---50-years-ago-my-marriage-was-illegal": [
+      "path---50-years-ago-my-marriage-was-illegal-70a80c00836d2f3e0b53.js",
+      "path---50-years-ago-my-marriage-was-illegal-70a80c00836d2f3e0b53.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---projects": [
+      "path---projects-1db04e5021b40904aca6.js",
+      "path---projects-1db04e5021b40904aca6.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-853270dbc0084ee29a6f.js",
+      "component---src-templates-blog-post-js-853270dbc0084ee29a6f.js.map"
+    ],
+    "path---instagram-made-spoty-irrelevent": [
+      "path---instagram-made-spoty-irrelevent-96c773667ad697e0c6b9.js",
+      "path---instagram-made-spoty-irrelevent-96c773667ad697e0c6b9.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-a161d4857270a80de945.js",
+      "component---src-layouts-index-js-a161d4857270a80de945.js.map"
+    ],
+    "path---excerpt-from-sapiens": [
+      "path---excerpt-from-sapiens-62fbf2122a023eb05165.js",
+      "path---excerpt-from-sapiens-62fbf2122a023eb05165.js.map"
+    ],
+    "path---the-death-of-an-artist-i-never-knew": [
+      "path---the-death-of-an-artist-i-never-knew-2a608e985eb0200c34ba.js",
+      "path---the-death-of-an-artist-i-never-knew-2a608e985eb0200c34ba.js.map"
+    ],
+    "path---index": [
+      "path---index-8dfbbf7d0155d782f42a.js",
+      "path---index-8dfbbf7d0155d782f42a.js.map"
+    ],
+    "path---instagram-dropping-foursquare": [
+      "path---instagram-dropping-foursquare-50c858a090a035969e01.js",
+      "path---instagram-dropping-foursquare-50c858a090a035969e01.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-3250c5ab2035d337e50d.js",
+      "component---src-pages-404-js-3250c5ab2035d337e50d.js.map"
+    ],
+    "commons": [
+      "commons-160320dd877c0712981f.js",
+      "commons-160320dd877c0712981f.js.map"
+    ],
+    "path---react-in-your-react-native-webview": [
+      "path---react-in-your-react-native-webview-c81dbfe4e5529b23d030.js",
+      "path---react-in-your-react-native-webview-c81dbfe4e5529b23d030.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-1db04e5021b40904aca6.js",
+      "path---404-html-1db04e5021b40904aca6.js.map"
+    ],
+    "path---codepen-add-and-remove": [
+      "path---codepen-add-and-remove-76bd7f4deb924a682b32.js",
+      "path---codepen-add-and-remove-76bd7f4deb924a682b32.js.map"
+    ],
+    "path---yeoman-gateway": [
+      "path---yeoman-gateway-24e5bba9ced6b6d0c80a.js",
+      "path---yeoman-gateway-24e5bba9ced6b6d0c80a.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js",
+      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js.map"
+    ],
+    "component---src-pages-projects-js": [
+      "component---src-pages-projects-js-0ad4654bf3cd5ec3593a.js",
+      "component---src-pages-projects-js-0ad4654bf3cd5ec3593a.js.map"
+    ],
+    "path---thoughts-on-startups": [
+      "path---thoughts-on-startups-67064c469c6e27eac84f.js",
+      "path---thoughts-on-startups-67064c469c6e27eac84f.js.map"
+    ],
+    "path---craigslist-killed-apartmentsnearmetro-com": [
+      "path---craigslist-killed-apartmentsnearmetro-com-2c858b67a8288cd81c68.js",
+      "path---craigslist-killed-apartmentsnearmetro-com-2c858b67a8288cd81c68.js.map"
+    ],
+    "app": [
+      "app-921e19ec1b0e00645502.js",
+      "app-921e19ec1b0e00645502.js.map"
+    ],
+    "path---my-thoughts-on-the-2016-election": [
+      "path---my-thoughts-on-the-2016-election-2658419ba26635ca5756.js",
+      "path---my-thoughts-on-the-2016-election-2658419ba26635ca5756.js.map"
+    ],
+    "path---404": [
+      "path---404-1db04e5021b40904aca6.js",
+      "path---404-1db04e5021b40904aca6.js.map"
+    ],
+    "path---growing-up-in-the-christian-bubble": [
+      "path---growing-up-in-the-christian-bubble-f9dd37cea90a080307c2.js",
+      "path---growing-up-in-the-christian-bubble-f9dd37cea90a080307c2.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-3195c64eeaba3a69136f.js",
+      "component---src-pages-about-js-3195c64eeaba3a69136f.js.map"
+    ],
+    "path---about": [
+      "path---about-1db04e5021b40904aca6.js",
+      "path---about-1db04e5021b40904aca6.js.map"
+    ]
+  }
+}
