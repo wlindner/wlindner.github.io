@@ -1,128 +1,128 @@
 {
   "assetsByChunkName": {
     "path---moving-to-san-francisco": [
-      "path---moving-to-san-francisco-624d33dda1a99194adcc.js",
-      "path---moving-to-san-francisco-624d33dda1a99194adcc.js.map"
-    ],
-    "path---an-excerpt-from-the-zahir": [
-      "path---an-excerpt-from-the-zahir-22d9a66ca5df9e2bc60a.js",
-      "path---an-excerpt-from-the-zahir-22d9a66ca5df9e2bc60a.js.map"
+      "path---moving-to-san-francisco-8170cac3bd3abd930edd.js",
+      "path---moving-to-san-francisco-8170cac3bd3abd930edd.js.map"
     ],
     "path---learning-elixir": [
-      "path---learning-elixir-90a20fc205df20521d3e.js",
-      "path---learning-elixir-90a20fc205df20521d3e.js.map"
+      "path---learning-elixir-8fd91cd94aa9c8acb89b.js",
+      "path---learning-elixir-8fd91cd94aa9c8acb89b.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-476e2f772d84a38bb8f4.js",
-      "component---src-pages-index-js-476e2f772d84a38bb8f4.js.map"
+      "component---src-pages-index-js-4714a7755f58860a7927.js",
+      "component---src-pages-index-js-4714a7755f58860a7927.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---instagram-made-spotsy-irrelevent": [
+      "path---instagram-made-spotsy-irrelevent-7153c200770b522c8ec3.js",
+      "path---instagram-made-spotsy-irrelevent-7153c200770b522c8ec3.js.map"
+    ],
     "path---projects": [
-      "path---projects-1db04e5021b40904aca6.js",
-      "path---projects-1db04e5021b40904aca6.js.map"
+      "path---projects-a0e39f21c11f6a62c5ab.js",
+      "path---projects-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-853270dbc0084ee29a6f.js",
-      "component---src-templates-blog-post-js-853270dbc0084ee29a6f.js.map"
-    ],
-    "path---instagram-made-spoty-irrelevent": [
-      "path---instagram-made-spoty-irrelevent-96c773667ad697e0c6b9.js",
-      "path---instagram-made-spoty-irrelevent-96c773667ad697e0c6b9.js.map"
+      "component---src-templates-blog-post-js-9b7c784f03bdb1ee27ac.js",
+      "component---src-templates-blog-post-js-9b7c784f03bdb1ee27ac.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-bb415f2bad0e190f100b.js",
-      "component---src-layouts-index-js-bb415f2bad0e190f100b.js.map"
+      "component---src-layouts-index-js-01df532b7a6905fa9896.js",
+      "component---src-layouts-index-js-01df532b7a6905fa9896.js.map"
+    ],
+    "path---react-in-your-react-native-webview-so-you-can-react-while-you-react": [
+      "path---react-in-your-react-native-webview-so-you-can-react-while-you-react-b595e44a8999e3b52655.js",
+      "path---react-in-your-react-native-webview-so-you-can-react-while-you-react-b595e44a8999e3b52655.js.map"
     ],
     "path---excerpt-from-sapiens": [
-      "path---excerpt-from-sapiens-62fbf2122a023eb05165.js",
-      "path---excerpt-from-sapiens-62fbf2122a023eb05165.js.map"
+      "path---excerpt-from-sapiens-dcca84b77c1ca93bb146.js",
+      "path---excerpt-from-sapiens-dcca84b77c1ca93bb146.js.map"
     ],
     "path---the-death-of-an-artist-i-never-knew": [
-      "path---the-death-of-an-artist-i-never-knew-2a608e985eb0200c34ba.js",
-      "path---the-death-of-an-artist-i-never-knew-2a608e985eb0200c34ba.js.map"
+      "path---the-death-of-an-artist-i-never-knew-15bb6b37c307ae4dd167.js",
+      "path---the-death-of-an-artist-i-never-knew-15bb6b37c307ae4dd167.js.map"
     ],
     "path---index": [
-      "path---index-a3011b6800329c2d4bc1.js",
-      "path---index-a3011b6800329c2d4bc1.js.map"
+      "path---index-20cbe4e8e4d6bce0a48c.js",
+      "path---index-20cbe4e8e4d6bce0a48c.js.map"
     ],
     "path---remembering-loving-day": [
-      "path---remembering-loving-day-d3c6f1967478b9d49f4a.js",
-      "path---remembering-loving-day-d3c6f1967478b9d49f4a.js.map"
+      "path---remembering-loving-day-d743b136e44cd1f5e37e.js",
+      "path---remembering-loving-day-d743b136e44cd1f5e37e.js.map"
     ],
     "path---instagram-dropping-foursquare": [
-      "path---instagram-dropping-foursquare-50c858a090a035969e01.js",
-      "path---instagram-dropping-foursquare-50c858a090a035969e01.js.map"
+      "path---instagram-dropping-foursquare-7fd9f7089cbda830e04f.js",
+      "path---instagram-dropping-foursquare-7fd9f7089cbda830e04f.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-3250c5ab2035d337e50d.js",
       "component---src-pages-404-js-3250c5ab2035d337e50d.js.map"
     ],
-    "commons": [
-      "commons-94b6d74817ddafd607c9.js",
-      "commons-94b6d74817ddafd607c9.js.map"
+    "path---yeoman-gateway-your-gateway-to-web-app-bliss": [
+      "path---yeoman-gateway-your-gateway-to-web-app-bliss-178c6d052c55c6668803.js",
+      "path---yeoman-gateway-your-gateway-to-web-app-bliss-178c6d052c55c6668803.js.map"
     ],
-    "path---react-in-your-react-native-webview": [
-      "path---react-in-your-react-native-webview-c81dbfe4e5529b23d030.js",
-      "path---react-in-your-react-native-webview-c81dbfe4e5529b23d030.js.map"
+    "commons": [
+      "commons-cd5b79dab24618f5f866.js",
+      "commons-cd5b79dab24618f5f866.js.map"
     ],
     "path---404-html": [
-      "path---404-html-1db04e5021b40904aca6.js",
-      "path---404-html-1db04e5021b40904aca6.js.map"
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---codepen-add-and-remove": [
-      "path---codepen-add-and-remove-76bd7f4deb924a682b32.js",
-      "path---codepen-add-and-remove-76bd7f4deb924a682b32.js.map"
-    ],
-    "path---yeoman-gateway": [
-      "path---yeoman-gateway-24e5bba9ced6b6d0c80a.js",
-      "path---yeoman-gateway-24e5bba9ced6b6d0c80a.js.map"
+      "path---codepen-add-and-remove-48e9a7e3066763b2e73b.js",
+      "path---codepen-add-and-remove-48e9a7e3066763b2e73b.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
-      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js",
-      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js.map"
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-projects-js": [
-      "component---src-pages-projects-js-d0d535fccd12fc5412bf.js",
-      "component---src-pages-projects-js-d0d535fccd12fc5412bf.js.map"
+      "component---src-pages-projects-js-669ebf37f42573548bc5.js",
+      "component---src-pages-projects-js-669ebf37f42573548bc5.js.map"
     ],
     "path---thoughts-on-startups": [
-      "path---thoughts-on-startups-67064c469c6e27eac84f.js",
-      "path---thoughts-on-startups-67064c469c6e27eac84f.js.map"
+      "path---thoughts-on-startups-ffe823da7c4e426c135b.js",
+      "path---thoughts-on-startups-ffe823da7c4e426c135b.js.map"
     ],
     "path---craigslist-killed-apartmentsnearmetro-com": [
-      "path---craigslist-killed-apartmentsnearmetro-com-2c858b67a8288cd81c68.js",
-      "path---craigslist-killed-apartmentsnearmetro-com-2c858b67a8288cd81c68.js.map"
+      "path---craigslist-killed-apartmentsnearmetro-com-b221eaf03df35135bc5d.js",
+      "path---craigslist-killed-apartmentsnearmetro-com-b221eaf03df35135bc5d.js.map"
     ],
     "app": [
-      "app-0910ab2986f12b87ad05.js",
-      "app-0910ab2986f12b87ad05.js.map"
+      "app-7f1fda203c68a805982c.js",
+      "app-7f1fda203c68a805982c.js.map"
     ],
-    "path---my-thoughts-on-the-2016-election": [
-      "path---my-thoughts-on-the-2016-election-2658419ba26635ca5756.js",
-      "path---my-thoughts-on-the-2016-election-2658419ba26635ca5756.js.map"
+    "path---excerpt-from-the-zahir": [
+      "path---excerpt-from-the-zahir-dd6ef0083e5a0679c47b.js",
+      "path---excerpt-from-the-zahir-dd6ef0083e5a0679c47b.js.map"
     ],
     "path---404": [
-      "path---404-1db04e5021b40904aca6.js",
-      "path---404-1db04e5021b40904aca6.js.map"
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---growing-up-in-the-christian-bubble": [
-      "path---growing-up-in-the-christian-bubble-f9dd37cea90a080307c2.js",
-      "path---growing-up-in-the-christian-bubble-f9dd37cea90a080307c2.js.map"
+      "path---growing-up-in-the-christian-bubble-2c458c004d523f4df105.js",
+      "path---growing-up-in-the-christian-bubble-2c458c004d523f4df105.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-3195c64eeaba3a69136f.js",
-      "component---src-pages-about-js-3195c64eeaba3a69136f.js.map"
+      "component---src-pages-about-js-b2e31c55e95d2eb24f1e.js",
+      "component---src-pages-about-js-b2e31c55e95d2eb24f1e.js.map"
+    ],
+    "path---2016-election": [
+      "path---2016-election-a5da93100b4d23b48c05.js",
+      "path---2016-election-a5da93100b4d23b48c05.js.map"
     ],
     "path---about": [
-      "path---about-1db04e5021b40904aca6.js",
-      "path---about-1db04e5021b40904aca6.js.map"
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
     ]
   }
 }
