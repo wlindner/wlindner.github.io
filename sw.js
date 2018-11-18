@@ -11,8 +11,8 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("workbox-v3.6.1/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "workbox-v3.6.1"});
+importScripts("workbox-v3.6.3/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "workbox-v3.6.3"});
 
 workbox.core.setCacheNameDetails({prefix: "gatsby-plugin-offline"});
 
@@ -26,40 +26,23 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-1de36f83fcc183c51ffc.js"
+    "url": "webpack-runtime-a126f51cb573bbad6d46.js"
   },
   {
-    "url": "app-f5554dbfed1766a757af.js"
+    "url": "app-e8293bb446ca207eba86.js"
   },
   {
-    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-e23d06db32b4978266b0.js"
-  },
-  {
-    "url": "index.html",
-    "revision": "8a363e989a0d0451e344d18622fcb8a5"
+    "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-fcf9b870675ab4386cae.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "f68ebecfae0911a796babdddf80e01eb"
+    "revision": "09c91a1141fabba97b54d76a260e4183"
   },
   {
-    "url": "component---src-pages-index-js-dc91f2e8dd45e5ee642a.js"
+    "url": "0-8ae77b9460d07cd1aa24.js"
   },
   {
-    "url": "2-ecd47e0962345c40e8aa.js"
-  },
-  {
-    "url": "1-9b35931d33ac1d7bdf0a.js"
-  },
-  {
-    "url": "0-3a48b9f651a3dd822f63.js"
-  },
-  {
-    "url": "static/d/40/path---index-6a9-OTv3FbcwTG9KewPbJG26Ud2MYE.json",
-    "revision": "a6c067cf7366b7b8204f3f666631a27b"
-  },
-  {
-    "url": "component---src-pages-404-js-a2d228a7068c778bb297.js"
+    "url": "component---src-pages-404-js-52dd97c74ca2622d96a4.js"
   },
   {
     "url": "static/d/164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E.json",
@@ -68,35 +51,22 @@ self.__precacheManifest = [
   {
     "url": "static/d/520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E.json",
     "revision": "c2508676a2f33ea9f1f0bf472997f9a0"
+  },
+  {
+    "url": "manifest.webmanifest",
+    "revision": "9b72631fd24c979b59000f5a0ff4aee6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute("/offline-plugin-app-shell-fallback/index.html", {
-  whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
+  whitelist: [/^([^.?]*|[^?]*\.([^.?]{5,}|html))(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
 
-workbox.routing.registerRoute(/\.(?:png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/, workbox.strategies.staleWhileRevalidate(), 'GET');
-workbox.routing.registerRoute(/^https:/, workbox.strategies.networkFirst(), 'GET');
+workbox.routing.registerRoute(/(\.js$|\.css$|\/static\/)/, workbox.strategies.cacheFirst(), 'GET');
+workbox.routing.registerRoute(/^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/, workbox.strategies.staleWhileRevalidate(), 'GET');
+workbox.routing.registerRoute(/^https?:\/\/fonts\.googleapis\.com\/css/, workbox.strategies.staleWhileRevalidate(), 'GET');
+// noop
 "use strict";
-
-/* global workbox */
-self.addEventListener("message", function (event) {
-  var api = event.data.api;
-
-  if (api === "gatsby-runtime-cache") {
-    var resources = event.data.resources;
-    var cacheName = workbox.core.cacheNames.runtime;
-    event.waitUntil(caches.open(cacheName).then(function (cache) {
-      return Promise.all(resources.map(function (resource) {
-        return cache.add(resource).catch(function (e) {
-          // ignore TypeErrors - these are usually due to
-          // external resources which don't allow CORS
-          if (!(e instanceof TypeError)) throw e;
-        });
-      }));
-    }));
-  }
-});
